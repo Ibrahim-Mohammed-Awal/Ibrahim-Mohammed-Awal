@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Ibrahim Mohammed Awal
 
-<!--
-**Ibrahim-Mohammed-Awal/Ibrahim-Mohammed-Awal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am an HND Information Technology student at Takoradi Technical University with a passion for software development and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am building my skills in:
+- HTML5
+- CSS3
+- JavaScript
+- MySQL
+- PostgreSQL
+- UI/UX Design
+- Computer Networking
+
+## Projects
+
+🚀 USSD-Based Student Services Platform (Ongoing)
+
+🚀 PluseSMS Bulk Messaging Platform
+
+🚀 Personal Portfolio Website (Coming Soon)
+
+## Currently Learning
+
+- Frontend Development
+- Git & GitHub
+- Modern JavaScript
+- Software Engineering Best Practices
+
+## Contact
+
+📧 Email: ibrahimawal446@yahoo.com
