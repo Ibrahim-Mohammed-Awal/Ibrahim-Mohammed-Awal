@@ -30,4 +30,4 @@ Currently, I am building my skills in:
 
 ## Contact
 
-📧 Email: ibrahimawal446@yahoo.com
+📧 Email: ibrahimawal02@yahoo.com
