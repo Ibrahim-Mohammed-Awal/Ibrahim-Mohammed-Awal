@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ibrahim Mohammed Awal
+# Hello good day, I'm Ibrahim Mohammed Awal
 
 ## About Me
 
@@ -15,11 +15,11 @@ Currently, I am building my skills in:
 
 ## Projects
 
-🚀 USSD-Based Student Services Platform (Ongoing)
+ USSD-Based Student Services Platform (Ongoing)
 
-🚀 PluseSMS Bulk Messaging Platform
+ PluseSMS Bulk Messaging Platform(Contributed)
 
-🚀 Personal Portfolio Website (Coming Soon)
+ Personal Portfolio Website (Coming Soon)
 
 ## Currently Learning
 
